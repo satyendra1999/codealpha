@@ -1,0 +1,39 @@
+.mainArea{
+    display: flex;
+    justify-content: space-around;
+}
+.window{
+    background-color: rgb(56, 89, 239);
+    width: 100%;
+    
+
+}
+textarea{
+    
+    color: azure;
+    background-color: rgb(26, 26, 26);
+    width: 95%;
+    min-height: 250px;
+    overflow: scroll;
+    font-size: x-large;
+    
+}
+body{
+    background-image: url("bg.jpg");
+    text-align: center;
+}
+    
+iframe{
+    background-color: rgb(209, 235, 253);
+    width: 70%;
+    height: 30em;
+    
+}
+h2{
+    color: rgb(233, 186, 15);
+}
+h1{
+    background-color: aquamarine;
+    color: rgb(225, 9, 27);
+
+}
